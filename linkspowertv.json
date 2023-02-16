@@ -3,7 +3,7 @@
   "fullscreen": true,
   "autoStart": false,
   "lazyLoadTabs": true,
-  "closeExistingTabs": false,
+  "closeExistingTabs": true,
   "websites": [
     {
       "url": "https://app.powerbi.com/reportEmbed?reportId=188efc50-5612-47dd-b8aa-a2d5eb57da47&autoAuth=true&ctid=9744600e-3e04-492e-baa1-25ec245c6f10&pageName=ReportSection",
