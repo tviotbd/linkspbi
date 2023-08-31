@@ -71,12 +71,6 @@
       "url": "https://app.powerbi.com/groups/576dcee4-5414-484f-9000-b28e1528a4b1/reports/6190075a-d4f5-4779-9741-620ec3c647ac/ReportSection?chromeless=true",
       "duration": 45,
       "tabReloadIntervalSeconds": 3600
-    },
-	
-	{
-      "url": "http://10.238.64.161:3000/d/pQzOay3Mk/hardware-monitor?orgId=1&refresh=10s",
-      "duration": 46,
-      "tabReloadIntervalSeconds": 3600
     }
 
 
