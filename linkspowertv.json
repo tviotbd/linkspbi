@@ -7,27 +7,44 @@
   "websites": [
     {
       "url": "https://app.powerbi.com/groups/576dcee4-5414-484f-9000-b28e1528a4b1/reports/188efc50-5612-47dd-b8aa-a2d5eb57da47/ReportSection?chromeless=true",
-      "duration": 20,
+      "duration": 40,
       "tabReloadIntervalSeconds": 900
     },
 
     {
       "url": "https://app.powerbi.com/groups/576dcee4-5414-484f-9000-b28e1528a4b1/reports/188efc50-5612-47dd-b8aa-a2d5eb57da47/ReportSection5403f0b3e7883d220088?chromeless=true",
-      "duration": 25,
-      "tabReloadIntervalSeconds": 900
+      "duration": 41,
+      "tabReloadIntervalSeconds": 901
     },
 
     {
       "url": "https://app.powerbi.com/groups/576dcee4-5414-484f-9000-b28e1528a4b1/reports/3623f81a-4f77-4cce-815b-54ed590c5617/ReportSection30d91b25a956801b2e0e?chromeless=true",
-      "duration": 25,
-      "tabReloadIntervalSeconds": 900
+      "duration": 42,
+      "tabReloadIntervalSeconds": 3600
     },
 
     {
       "url": "https://app.powerbi.com/groups/576dcee4-5414-484f-9000-b28e1528a4b1/reports/3623f81a-4f77-4cce-815b-54ed590c5617/ReportSectione6002dd09a3b9119e464?chromeless=true",
-      "duration": 25,
-      "tabReloadIntervalSeconds": 900
-    }
+      "duration": 43,
+      "tabReloadIntervalSeconds": 3600
+    },
 
+    {
+      "url": "https://app.powerbi.com/groups/576dcee4-5414-484f-9000-b28e1528a4b1/reports/23b2a7b3-830d-49d1-bc9b-b94365ef6180/ReportSectiond0dc76e0183493dc4953?chromeless=true",
+      "duration": 43,
+      "tabReloadIntervalSeconds": 3600
+    },
+
+    {
+      "url": "https://app.powerbi.com/groups/576dcee4-5414-484f-9000-b28e1528a4b1/reports/23b2a7b3-830d-49d1-bc9b-b94365ef6180/ReportSectiond0dc76e0183493dc4953?chromeless=true",
+      "duration": 43,
+      "tabReloadIntervalSeconds": 3600
+    },
+
+    {
+      "url": "https://app.powerbi.com/groups/576dcee4-5414-484f-9000-b28e1528a4b1/reports/685a9dc2-4e78-4f39-9559-e1bac0276cce/ReportSectionb11c5f6d6867d74dda67?chromeless=true",
+      "duration": 43,
+      "tabReloadIntervalSeconds": 3600
+	}
   ]
 }
